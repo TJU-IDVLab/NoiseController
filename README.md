@@ -10,7 +10,7 @@ Towards Consistent Multi-view Video Generation via Noise Decomposition and Colla
 <p align="center"> <sup>3</sup> Department of Automation, Shanghai Jiao Tong University, China</p>
 <p align="center"> <sup>4</sup> Nankai University, China</p>
 
-[Paper](https://arxiv.org/abs/2504.18448) [HomePage](https://dilincv.github.io/)
+[Paper](https://arxiv.org/abs/2504.18448) [HomePage](https://dilincv.github.io/) [Demo](./video)
 ![NoiseController incorporates Multi-Level Noise Decomposition, Multi-Frame Noise Collaboration, and Joint Denoising, to enhance spatiotemporal consistencies in multi-view video generation.
 ](./Figures/overview.png)
 
