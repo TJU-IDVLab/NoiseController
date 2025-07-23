@@ -15,3 +15,17 @@ Towards Consistent Multi-view Video Generation via Noise Decomposition and Colla
 ](./Figures/overview.png)
 
 NoiseController incorporates Multi-Level Noise Decomposition, Multi-Frame Noise Collaboration, and Joint Denoising, to enhance spatiotemporal consistencies in multi-view video generation.
+
+## Requirements
+
+## Datasets
+
+
+## Pretrained models
+
+Coming soon
+
+## Train
+
+
+## Inference
