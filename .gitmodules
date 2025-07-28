@@ -1,0 +1,6 @@
+[submodule "third_party/bevfusion"]
+	path = third_party/bevfusion
+	url = https://github.com/mit-han-lab/bevfusion
+[submodule "third_party/diffusers"]
+	path = third_party/diffusers
+	url = https://github.com/huggingface/diffusers
