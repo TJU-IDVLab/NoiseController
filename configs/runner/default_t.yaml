@@ -1,0 +1,15 @@
+# @package _global_
+defaults:
+  - /runner/default
+
+runner:
+  train_batch_size: 1    
+  validation_before_run: true
+  validation_show_box: true
+  validation_index: [204, 899]
+  # validation_index: "all"
+  validation_times: 1
+  enable_xformers_memory_efficient_attention: true  # always need this.
+  pipeline_param:
+    init_noise: both
+    view_order: ${dataset.view_order}
